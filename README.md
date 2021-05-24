@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**tmanguel/tmanguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **FullStack Developer** recibido del Coding Bootcamp **SoyHenry**, y actualmente me encuentro trabajando como **Frontend Developer** en **Mobile Computing**.
+Me considero autodidacta, me gusta aprender, mejorar y los nuevos desafios. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:email: mangueltomas@gmail.com
+
+:link: https://www.linkedin.com/in/tomas-manguel/
+
+
+### Tecnologías
+
+**FRONTEND**
+
+HTML | CSS | SASS - LESS | BOOTSTRAP | JAVASCRIPT | JQUERY | REACT | REDUX | ANGULAR | IONIC 
+
+**BACKEND**
+
+NODE | EXPRESS | SQLITE | POSTGRESQL | SEQUELIZE
+
+**OTROS**
+
+GIT | GITHUB | AZURE | TRELLO | SCRUM | KANBAN 
