@@ -12,14 +12,14 @@ Me considero autodidacta, me gusta aprender y los nuevos desafios.
 
 ### Tecnologías
 
-**FRONTEND**
+🎨 **FRONTEND**
 
 HTML | CSS | SASS - LESS | BOOTSTRAP | JAVASCRIPT | JQUERY | REACT | REDUX | ANGULAR | IONIC 
 
-**BACKEND**
+🖥 **BACKEND**
 
 NODE | EXPRESS | SQLITE | POSTGRESQL | SEQUELIZE
 
-**OTROS**
+➕ **OTROS**
 
 GIT | GITHUB | AZURE | TRELLO | SCRUM | KANBAN 
