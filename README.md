@@ -1,6 +1,6 @@
 ### Hola👋, mi nombre es Tomas! 
 
-Soy **FullStack Developer** recibido del Coding Bootcamp **SoyHenry**, y actualmente me encuentro trabajando como **Frontend Developer** en **Mobile Computing**.
+Soy **FullStack Developer** recibido del Coding Bootcamp **SoyHenry**, y actualmente me encuentro trabajando como **Frontend UI Developer** en **Garaje de Ideas **.
 Me considero autodidacta, me gusta aprender y disfruto de los nuevos desafios. 
 
 
