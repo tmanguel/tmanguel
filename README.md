@@ -17,13 +17,13 @@
 
 
 
-### Technologies
+<h2>Technologies</h2>
 
-🎨 **FRONTEND**
+<h4>🎨 FRONTEND</h4>
 
 HTML | CSS | SASS | BOOTSTRAP | JAVASCRIPT | JQUERY | REACT | REACT QUERY | ANGULAR | IONIC 
 
-🖥 **BACKEND**
+<h4>🖥 BACKEND</h4>
 
 NODE | EXPRESS | FIRESTORE | POSTGRESQL | GOOGLE CLOUD SERVICES
 
